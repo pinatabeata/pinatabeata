@@ -15,7 +15,8 @@
 <img src="https://64.media.tumblr.com/af6d24c6ec9ec53f9cc83b332ee71a97/85e34bcb20f7a643-bd/s1280x1920/6d5e0af45ed2f9eec96ba446e9657a7bb6e55543.gifv">
 
 <p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=pinatabeata&color=e2fbf9)
+  <img src="https://komarev.com/ghpvc/?username=pinatabeata&label=Profile%20views&color=e2fbf9&style=flat" />
+</p>
 
 </body>
 </html>
